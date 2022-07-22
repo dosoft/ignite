@@ -153,6 +153,10 @@
         <commons.lang3.version>3.9</commons.lang3.version>
         <ignite-kafka-ext.version>1.0.0</ignite-kafka-ext.version>
 
+        <!--Spark 3.2 version support -->
+        <spark32.hadoop.version>3.3.1</spark32.hadoop.version>
+        <spark32.version>3.2.1</spark32.version>
+
         <!-- Maven plugins versions -->
         <maven.javadoc.plugin.version>3.2.0</maven.javadoc.plugin.version>
 
